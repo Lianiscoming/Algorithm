@@ -23,6 +23,6 @@ public class Frequency {
                 modeNum = i;
             }
         }
-        System.out.println("최빈수는 : " + modeNum + " cnt: " + modeCnt);
+        System.out.println("최빈수는 : " + modeNum + " 최빈수의 cnt: " + modeCnt);
     }
 }
